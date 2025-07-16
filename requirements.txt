@@ -3,4 +3,5 @@ pandas
 requests
 plotly
 mailjet-rest
+fpdf
 
